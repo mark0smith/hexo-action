@@ -1,5 +1,5 @@
-name: 'Hexo Action temp test'
-description: 'Hexo CI/CD action for automating deployment.'
+name: 'Hexo Action with Nodejs v14.15.5 LTS'
+description: 'Nothing Changed from sma11black\'action but update Nodejs to `v14.15.5 LTS`'
 author: 'sma11black'
 inputs:
   user_name:
