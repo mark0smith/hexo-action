@@ -17,7 +17,7 @@ npm install hexo-cli -g
 npm install hexo-deployer-git --save
 
 # if node-sass installed then rebuild it
-find ./node_modules/ -type d -name "node-sass" -exec npm rebuild node-sass \;
+#find ./node_modules/ -type d -name "node-sass" -exec npm rebuild node-sass \;
 
 # deployment
 if [ "$INPUT_COMMIT_MSG" = "none" ]
