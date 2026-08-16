@@ -1,4 +1,4 @@
-name: 'Hexo Action with Nodejs 17'
+name: 'Hexo Action with Nodejs 22'
 description: 'Nothing Changes from sma11black action but update Nodejs to 17'
 author: 'sma11black'
 inputs:
